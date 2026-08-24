@@ -1,0 +1,1 @@
+import{n as e,s as t,t as n}from"./index-D2ZEfeUK.js";t();var r=n();function i({href:t,to:n,...i}){let a=n||t||`/`;return a.startsWith(`http://`)||a.startsWith(`https://`)||a.startsWith(`mailto:`)||a.startsWith(`tel:`)||a.startsWith(`#`)?(0,r.jsx)(`a`,{href:a,...i}):(0,r.jsx)(e,{to:a,...i})}export{i as t};

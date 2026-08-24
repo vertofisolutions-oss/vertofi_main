@@ -1,0 +1,1 @@
+import{a as e,i as t,r as n}from"./index-D2ZEfeUK.js";function r(){let e=t();return{push:t=>e(t),replace:t=>e(t,{replace:!0}),back:()=>e(-1),forward:()=>e(1),prefetch:()=>{}}}function i(){return n().pathname}function a(){let[t]=e();return t}export{r as n,a as r,i as t};

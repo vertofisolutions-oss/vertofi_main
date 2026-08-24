@@ -1,0 +1,1 @@
+import{c as e,n as t,t as n}from"./index-CGh6uTWr.js";e();var r=n();function i({href:e,to:n,...i}){let a=n||e||`/`;return a.startsWith(`http://`)||a.startsWith(`https://`)||a.startsWith(`mailto:`)||a.startsWith(`tel:`)||a.startsWith(`#`)?(0,r.jsx)(`a`,{href:a,...i}):(0,r.jsx)(t,{to:a,...i})}export{i as t};

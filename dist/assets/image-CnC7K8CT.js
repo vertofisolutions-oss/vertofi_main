@@ -1,0 +1,1 @@
+import{s as e,t}from"./index-D2ZEfeUK.js";e();var n=t();function r({src:e,alt:t,width:r,height:i,className:a,priority:o,fill:s,...c}){return(0,n.jsx)(`img`,{src:e,alt:t||``,width:r,height:i,className:a,...c})}export{r as t};
